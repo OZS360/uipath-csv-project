@@ -60,3 +60,9 @@ result.csv
 -   DataTableは中間データ
 -   CSVはテキスト
 -   安全に配列アクセスする
+
+-   ## 使用技術
+
+- UiPath
+- VB.NET（Invoke Code）
+- Git / GitHub
