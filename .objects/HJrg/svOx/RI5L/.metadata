@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge R8_23aichi.pdf",
+  "Type": "Screen",
+  "Id": "RI5LHYDakkChTrSCOOC3Og",
+  "Reference": "_mHtuHbvaEy4oOkdKCuW8A/RI5LHYDakkChTrSCOOC3Og",
+  "ParentRef": "_mHtuHbvaEy4oOkdKCuW8A/svOxO6cwB0uWbEYrutJ-mg",
+  "Created": "2026-03-21T10:31:04.5238969Z",
+  "Updated": "2026-03-21T10:31:04.5238969Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
