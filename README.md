@@ -1,4 +1,4 @@
-[uipath_csv_readme.md](https://github.com/user-attachments/files/26163206/uipath_csv_readme.md)
+
 # CSV生成フロー README（UiPath）
 
 ## 目的
